@@ -1,4 +1,4 @@
-- [![CircleCI](https://circleci.com/gh/ccl-consulting/terraform-gcp-nested-virtualization.svg?style=svg)](https://circleci.com/gh/ccl-consulting/terraform-gcp-nested-virtualization)
+[![CircleCI](https://circleci.com/gh/ccl-consulting/terraform-gcp-nested-virtualization.svg?style=svg)](https://circleci.com/gh/ccl-consulting/terraform-gcp-nested-virtualization)
 
 # terraform on GCP to create Compute Engine Nested Virtual Machine
 
