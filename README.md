@@ -14,6 +14,17 @@ $ terraform init
 
 This will create the `terraform.tfstate` file
 
+## Graph
+
+You can generate graph with 
+
+```
+terraform graph | dot -Tsvg > graph.svg
+```
+### Result
+
+![](./graph.svg)
+
 ## Running it
 
 ```bash
